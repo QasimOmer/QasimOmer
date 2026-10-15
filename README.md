@@ -58,9 +58,9 @@ I'm **Muhammad Qasim Omer**, a Full Stack Developer & QA Specialist at **HazenTe
 
 | Project | Description | Stack |
 |---|---|---|
-| [**MEDITRON**](https://github.com/QasimOmer/meditron-medical-app) | AI-powered healthcare platform for disease prediction, medical imaging analysis and health management | TypeScript |
-| [**Sweet Bites**](https://github.com/QasimOmer/sweet-bites) | Premium home bakery website | TypeScript |
-| [**Covid-19 Screener**](https://github.com/QasimOmer/Covid-19-Screener-App.github.io) | COVID-19 screening app built as an Interns.pk task | HTML / JS |
+| [**Local SEO Workbench**](https://github.com/QasimOmer/seo-workbench) | Comprehensive toolkit for local SEO tracking, analytics, and performance optimization. | React / Node.js |
+| [**Answeave AI**](https://github.com/QasimOmer/answeave-ai) | AI-driven application for intelligent knowledge weaving and dynamic responses. | TypeScript / AI |
+| [**MEDITRON**](https://github.com/QasimOmer/meditron-medical-app) | AI-powered healthcare platform for disease prediction, medical imaging analysis, and health management. | TypeScript |
 
 ---
 
