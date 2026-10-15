@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Qasim 👋</h1>
-<h3 align="center">Frontend & WordPress Developer · Plugin Developer · Website Security</h3>
+<h3 align="center">Full Stack Developer · QA Specialist · Shopify & Webflow</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mqasimomer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -14,51 +14,43 @@
 
 ## 💫 About Me
 
-I'm **Muhammad Qasim Omer**, a Frontend Developer at **HazenTech** in Lahore, Pakistan. I build, secure and speed up WordPress sites for professional-services clients, mostly law firms, and I write the custom plugins and tooling that make that work repeatable.
+I'm **Muhammad Qasim Omer**, a Full Stack Developer & QA Specialist at **HazenTech** in Lahore, Pakistan. I build, secure, and test robust web applications, enterprise CMS setups, and e-commerce platforms. My expertise spans end-to-end development, platform architecture, and rigorous quality assurance to ensure seamless digital experiences.
 
-- 🔭 Building and maintaining production WordPress sites (Genesis, Elementor Pro, ACF)
-- 🧩 Developing custom WordPress plugins, including bulk SEO landing-page generation
-- 🛡️ Running website security audits, malware cleanup and hardening
-- ⚡ Performance tuning, Core Web Vitals and caching (NitroPack, Cloudflare)
-- 🌐 Handling DNS and Cloudflare cutovers and hosting migrations (WP Engine, Hostinger)
-- 🔎 Technical SEO audits and on-page optimization
-- 🤝 Working in Scrum sprints with Azure DevOps
+- 🔭 **Building full-stack web applications** with React, Node.js, and Ruby on Rails
+- 🛍️ **Developing and scaling e-commerce platforms** on Shopify and WooCommerce
+- 🎨 **Crafting responsive, high-performance architectures** using WordPress and Webflow
+- 🧪 **Serving as a QA Specialist**, running comprehensive testing to ensure bug-free releases
+- 🛡️ **Executing security audits**, malware cleanup, and advanced performance tuning (Core Web Vitals)
+- ⚡ **Working in Scrum sprints** with Azure DevOps for continuous integration and delivery
 
 ---
 
 ## 💻 Tech Stack
 
-**Web & Frontend**
+**Programming & Full Stack**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-**WordPress**
+**CMS, E-Commerce & Builders**
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=flat&logo=shopify&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor_Pro-92003B?style=flat&logo=elementor&logoColor=white)
-![Genesis](https://img.shields.io/badge/Genesis_Framework-0E1C2B?style=flat)
-![ACF](https://img.shields.io/badge/ACF-00A0D2?style=flat)
 
-**Hosting, Performance & Security**
+**QA, Hosting & Tools**
 
+![Quality Assurance](https://img.shields.io/badge/QA_Testing-0052CC?style=flat&logo=testinglibrary&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![WP Engine](https://img.shields.io/badge/WP_Engine-0ECAD4?style=flat&logo=wpengine&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat&logo=hostinger&logoColor=white)
-![Google Search Console](https://img.shields.io/badge/Search_Console-458CF5?style=flat&logo=googlesearchconsole&logoColor=white)
-
-**Apps & Tools**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-121013?style=flat&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ---
 
@@ -86,7 +78,7 @@ I'm **Muhammad Qasim Omer**, a Frontend Developer at **HazenTech** in Lahore, Pa
 
 ## 📫 Let's Connect
 
-Open to WordPress development, plugin work, security audits and performance projects. The fastest way to reach me is [LinkedIn](https://linkedin.com/in/mqasimomer).
+Open to full-stack development, Shopify/Webflow builds, QA testing roles, and WordPress projects. The fastest way to reach me is [LinkedIn](https://linkedin.com/in/mqasimomer).
 
 <p align="center">
   <a href="https://buymeacoffee.com/mqasimomer"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
