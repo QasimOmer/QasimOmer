@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Qasim 👋</h1>
-<h3 align="center">Full Stack Developer · QA Specialist · Shopify & Webflow</h3>
+<h3 align="center">Full-Stack Developer & QA Engineer · Full-stack web apps and the tests that keep them reliable</h3>
 
 <p align="center">
+  <a href="https://qasim-omer.vercel.app"><img src="https://img.shields.io/badge/Portfolio-121412?style=for-the-badge&logo=googlechrome&logoColor=FFD43B" /></a>
+  <a href="https://qasim-omer.vercel.app/resume/"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-FFD43B?style=for-the-badge&logo=readthedocs&logoColor=121412" /></a>
   <a href="https://linkedin.com/in/mqasimomer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/not_mqasimomer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/22263937"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
@@ -14,13 +16,13 @@
 
 ## 💫 About Me
 
-I'm **Muhammad Qasim Omer**, a Full Stack Developer & QA Specialist at **HazenTech** in Lahore, Pakistan. I build, secure, and test robust web applications, enterprise CMS setups, and e-commerce platforms. My expertise spans end-to-end development, platform architecture, and rigorous quality assurance to ensure seamless digital experiences.
+I'm **Muhammad Qasim Omer**, a Full-Stack Developer & QA Engineer at **Hazen Technologies** in Lahore, Pakistan. I build web applications end to end and write the automated tests that keep them reliable in production — one engineer owning the code *and* its quality. **100+ projects shipped**; case studies at **[qasim-omer.vercel.app](https://qasim-omer.vercel.app)**.
 
-- 🔭 **Building full-stack web applications** with React, Node.js, and Ruby on Rails
+- 🔭 **Building full-stack web applications** with Python (Django, FastAPI), React, Node.js and Ruby on Rails
+- 🧪 **Test automation:** Playwright and Cypress end-to-end suites, PyTest and Jest unit/API tests, CI/CD test gates
 - 🛍️ **Developing and scaling e-commerce platforms** on Shopify and WooCommerce
-- 🎨 **Crafting responsive, high-performance architectures** using WordPress and Webflow
-- 🧪 **Serving as a QA Specialist**, running comprehensive testing to ensure bug-free releases
-- 🛡️ **Executing security audits**, malware cleanup, and advanced performance tuning (Core Web Vitals)
+- 🎨 **Crafting responsive, high-performance sites** with WordPress and Webflow
+- 🛡️ **Security audits**, malware cleanup and performance tuning (OWASP checks, Core Web Vitals)
 - ⚡ **Working in Scrum sprints** with Azure DevOps for continuous integration and delivery
 
 ---
@@ -29,12 +31,25 @@ I'm **Muhammad Qasim Omer**, a Full Stack Developer & QA Specialist at **HazenTe
 
 **Programming & Full Stack**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**Testing & QA**
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 **CMS, E-Commerce & Builders**
 
@@ -43,12 +58,12 @@ I'm **Muhammad Qasim Omer**, a Full Stack Developer & QA Specialist at **HazenTe
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor_Pro-92003B?style=flat&logo=elementor&logoColor=white)
 
-**QA, Hosting & Tools**
+**Hosting & Tools**
 
-![Quality Assurance](https://img.shields.io/badge/QA_Testing-0052CC?style=flat&logo=testinglibrary&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![WP Engine](https://img.shields.io/badge/WP_Engine-0ECAD4?style=flat&logo=wpengine&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
@@ -58,9 +73,11 @@ I'm **Muhammad Qasim Omer**, a Full Stack Developer & QA Specialist at **HazenTe
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Local SEO Workbench**](https://github.com/QasimOmer/seo-workbench) | Comprehensive toolkit for local SEO tracking, analytics, and performance optimization. | React / Node.js |
-| [**Answeave AI**](https://github.com/QasimOmer/answeave-ai) | AI-driven application for intelligent knowledge weaving and dynamic responses. | TypeScript / AI |
+| [**Hi Bot**](https://github.com/QasimOmer/answerweave-ai) | AI website assistant that answers only from a site's own content, with citations and live human takeover. [Case study](https://qasim-omer.vercel.app/work/answerweave-ai/) · [Live](https://answerweave-ai.vercel.app) | Python / FastAPI / RAG |
+| [**SEO Workbench**](https://github.com/QasimOmer/seo-workbench) | Multi-step SEO workflow workbench from keyword research to verified article export. [Case study](https://qasim-omer.vercel.app/work/seo-workbench/) | React / Node.js |
 | [**MEDITRON**](https://github.com/QasimOmer/meditron-medical-app) | AI-powered healthcare platform for disease prediction, medical imaging analysis, and health management. | TypeScript |
+
+More client work — legal intake platforms for US law firms, a UAE tour-booking engine, Dubai real estate and multi-marketplace e-commerce portals — is in the **[portfolio case studies](https://qasim-omer.vercel.app/work/)**.
 
 ---
 
@@ -78,7 +95,7 @@ I'm **Muhammad Qasim Omer**, a Full Stack Developer & QA Specialist at **HazenTe
 
 ## 📫 Let's Connect
 
-Open to full-stack development, Shopify/Webflow builds, QA testing roles, and WordPress projects. The fastest way to reach me is [LinkedIn](https://linkedin.com/in/mqasimomer).
+Open to **full-stack development and QA automation roles** (remote or Lahore), plus Shopify, Webflow and WordPress builds. Reach me at **[mqasimomer@gmail.com](mailto:mqasimomer@gmail.com)** or on [LinkedIn](https://linkedin.com/in/mqasimomer) · [Portfolio](https://qasim-omer.vercel.app) · [Résumé](https://qasim-omer.vercel.app/resume/)
 
 <p align="center">
   <a href="https://buymeacoffee.com/mqasimomer"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
